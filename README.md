@@ -103,7 +103,7 @@ To set up and run this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-travel-blog.git
+   git clone https://github.com/itzme-hari18/IBM_CAD_Project/ 
    cd your-travel-blog
    ```
 
