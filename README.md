@@ -101,11 +101,8 @@ Here's how to set up your project on IBM Cloud Static Web Apps:
 To set up and run this project, follow these steps:
 
 1. **Clone the Repository:**
-
-   ```bash
+  
    git clone https://github.com/itzme-hari18/IBM_CAD_Project/ 
-   cd your-travel-blog
-   ```
 
 2. **Edit Configuration:**
 
