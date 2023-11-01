@@ -3,7 +3,6 @@ IBM cloud naan mudhalvan project
 
 Here's an updated README file with instructions for cloning the repository and additional setup processes:
 
-```markdown
 # Personal Travel Blog on IBM Cloud Static Web Apps
 
 ## Project Objective
