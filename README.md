@@ -1,7 +1,7 @@
 # IBM_CAD_Project
 IBM cloud naan mudhalvan project
 
-Certainly! Here's an updated README file with instructions for cloning the repository and additional setup processes:
+Here's an updated README file with instructions for cloning the repository and additional setup processes:
 
 ```markdown
 # Personal Travel Blog on IBM Cloud Static Web Apps
